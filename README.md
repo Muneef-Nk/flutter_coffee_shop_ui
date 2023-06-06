@@ -1,16 +1,6 @@
 # coffee_shop_ui
 
-A new Flutter project.
+ScreenShot
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Muneef-Nk/flutter_coffee_shop_ui/assets/92105703/1d7959ed-f7f7-40f3-a4af-20d9bc08cd12" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/flutter_coffee_shop_ui/assets/92105703/dfdbb375-bc80-4c2b-b5b4-225c34f32ee5" width="200" height="400"/>
